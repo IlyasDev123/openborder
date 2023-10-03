@@ -47,7 +47,7 @@ class AcuitySchedulingController extends Controller
         // require_once('vendor/autoload.php');
         $acuity = new AcuityScheduling(array(
             'userId' => 16375787,
-            'apiKey' => '52b059c8cdf72bce88be9994a10f79dc'
+            'apiKey' => '52b059c8cdf72bce88be9994a10f79dc,wwww'
         ));
 
         return $acuity;
