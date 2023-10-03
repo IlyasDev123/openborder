@@ -166,8 +166,8 @@ class AcuitySchedulingController extends Controller
     public function curlGETRequest($url)
     {
 
-        $userID = 16375787;
-        $key = '52b059c8cdf72bce88be9994a10f79dc';
+        // $userID = 16375787;
+        // $key = '52b059c8cdf72bce88be9994a10f79dc(234444sdfdfd)';
 
         $url = "https://acuityscheduling.com/api/v1/{$url}";
         // Initiate curl:
